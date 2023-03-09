@@ -1,0 +1,3 @@
+creation  project  react => npx create-react-app nameProjet
+selction project react => cd nameProjet
+satrt application => npm start
