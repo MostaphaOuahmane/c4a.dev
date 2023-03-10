@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../comp/header";
+import MainCom from "../comp/MainCom";
 import Footer from "../comp/footer";
 
 const Html = () => {
@@ -7,7 +8,7 @@ const Html = () => {
     <>
       <Header/>
       <div>
-        <main>Html Page</main>
+        <MainCom pageName="Html page"/>
         <Footer/>
       </div>
     </>
