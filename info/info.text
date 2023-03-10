@@ -7,3 +7,6 @@ pour link internt on utlis => import { Link } from "react-router-dom"; rempalce 
  or navlink => import { NavLink } from "react-router-dom";
  navlink va jouter class active qaund en clikc sur link 
  c'est ça la déferance entre les deux
+
+
+Components and Props => passe data argemen in Component exo <MainCom pageName="test" />
